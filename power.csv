@@ -1,0 +1,6 @@
+resultado;i;i<y;multiply(x,resultado)
+1;0;true;3
+3;1;true;9
+9;2;true;27
+27;3;true;81
+81;4;false;-

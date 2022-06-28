@@ -1,0 +1,9 @@
+resultado;x!=2 && x!=1;resultado1;resultado2;i;i<x
+1;"true ";1;0;1;true
+1;true;2;1;1;true
+2;"true ";3;2;2;true
+3;true;5;3;3;true
+5;true;8;5;4;true
+8;true;13;8;5;true
+13;true;21;13;6;true
+-;-;-;-;7;false

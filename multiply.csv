@@ -1,0 +1,6 @@
+resultado;i;i<x;resultado=add(y,resultado)
+0;0;true;6
+6;1;true;12
+12;2;true;18
+18;3;true;24
+24;4;false;-

@@ -1,0 +1,6 @@
+resultado;i;i>0;multiply(i,resultado);x
+5;4;true;20;5
+20;3;true;60;-
+60;2;true;120;-
+120;1;true;120;-
+120;0;false;-;-
