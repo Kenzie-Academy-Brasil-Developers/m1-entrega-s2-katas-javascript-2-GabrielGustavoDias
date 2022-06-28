@@ -47,7 +47,7 @@ function fibonacci(x){
         for(let i = 1; i < x; i++ ){
             resultado2 = resultado1
 
-            resultado1 = resultado1 + resultado
+            resultado1 = add(resultado1,resultado)
 
             resultado = resultado2
         }
